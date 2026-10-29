@@ -1,7 +1,7 @@
 # -*- eval: (my/org-typewriter-mode); -*-
 #+title: Essay 02 — Walking in the Dark
 
-Welcome to Pathspace Lab's series exploring path dependence. Questions are always welcome at https://pathspacelab.org/.
+Welcome to Pathspace Lab's series exploring path dependence. Questions are always welcome; [[/contact.html][get in touch]].
 
 * Current Footing
 

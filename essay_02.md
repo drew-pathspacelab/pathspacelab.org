@@ -3,11 +3,13 @@ layout: single
 title: "Walking in the Dark"
 excerpt: "A risk model has memory but no sense of time. So I sent a hiker wandering in the dark to ask what to remember."
 permalink: /writing/walking-in-the-dark/
+date: 2026-10-22
+show_date: true
 author: drew_profile
 author_profile: true
 ---
 
-Welcome to Pathspace Lab's series exploring path dependence. Questions are always welcome at <https://pathspacelab.org/>.
+Welcome to Pathspace Lab's series exploring path dependence. Questions are always welcome; [get in touch](/contact.html).
 
 ## 1. Current Footing
 
@@ -122,3 +124,7 @@ Then there's the question the stitched wilderness left us with: could a model fe
 Underneath all of it is the question I keep coming back to: does any kind of memory actually beat remembering every step equally? Take it to the extreme and give a hiker no memory at all. With nothing to go on, every direction is equally unknown, and the most cautious thing they can do is spread their weight evenly. A minimum-variance optimizer with no memory does the same: knowing nothing about how assets move together, it lands on equal weights across all of them. That naive portfolio has a reputation for being stubbornly hard to beat. It's possible that the plain hiker, with a mile of equally vivid memory, was the fittest one all along. It's even possible the fittest hiker remembers nothing.
 
 Either way, the hiker keeps walking, and tomorrow is still dark. The best we can do is choose what to remember, and how hard to flinch when the ground surprises us.
+
+---
+
+**Previously in the series:** [← Beyond the Realized Path](/writing/beyond-the-realized-path/){: .psl-card-link }

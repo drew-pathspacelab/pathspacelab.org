@@ -3,6 +3,8 @@ layout: single
 title: "Beyond the Realized Path"
 excerpt: "Most analysis focuses on the single path that occurred. Pathspace asks what changes when we explore the paths that could have occurred."
 permalink: /writing/beyond-the-realized-path/
+date: 2026-07-10
+show_date: true
 author: drew_profile
 author_profile: true
 ---
@@ -20,7 +22,7 @@ How much of what we&rsquo;ve learned depends on the particular history we happen
 
 This question isn&rsquo;t unique to finance. It surfaces anywhere we study systems that cannot be rerun from the same initial conditions. Finance provides an unusually rich laboratory: decades of publicly available data, countless competing models, and no shortage of confident claims.
 
-When reading financial blogs I frequently encounter titles and posts claiming that a new model has &ldquo;beaten the market.&rdquo; In my own research the claims are 'optimized' or 'optimally hedged', but I know the model is brittle, and I have the reoccurring questions in my mind. 
+When reading financial blogs I frequently encounter titles and posts claiming that a new model has &ldquo;beaten the market.&rdquo; In my own research the claims are &lsquo;optimized&rsquo; or &lsquo;optimally hedged&rsquo;, but I know the model is brittle, and I have the recurring questions in my mind. 
 
 -   Would it still have worked if events unfolded in a different order?
 -   Are any of the conclusions robust? Which depend on fortunate sequencing?
@@ -31,7 +33,7 @@ When reading financial blogs I frequently encounter titles and posts claiming th
 
 My curiosity grew about whether these conclusions were actually stable and whether path dependence itself could be quantified. Those questions lingered because trusting (selling) a model without understanding its sensitivity felt incomplete.
 
-Imagine building a bridge. You wouldn&rsquo;t test it under a single gust of wind and immediately label the bridge as &rsquo;safe&rsquo;. You would (hopefully) expose it to thousands of simulated conditions: stronger winds, differing traffic patterns, shifting temperatures, even unlikely combinations of events. The goal isn&rsquo;t to predict the exact forces the bridge will experience. It&rsquo;s to understand how the bridge behaves across many plausible futures.
+Imagine building a bridge. You wouldn&rsquo;t test it under a single gust of wind and immediately label the bridge as &lsquo;safe&rsquo;. You would (hopefully) expose it to thousands of simulated conditions: stronger winds, differing traffic patterns, shifting temperatures, even unlikely combinations of events. The goal isn&rsquo;t to predict the exact forces the bridge will experience. It&rsquo;s to understand how the bridge behaves across many plausible futures.
 
 Most analyses are conditioned on a single realized history. So, why trust one realization so much? Producing a convincing backtest with the typical conclusions: this strategy works, these factors matter, this portfolio is optimally hedged, can certainly be done, but all those statements are conditioned on a single realization of history. Sometimes we can get lucky and look backwards an extra decade or at another economy to evaluate models, but that gets convoluted too.
 
@@ -124,3 +126,7 @@ A single history framework confirms what is already believed. It is far less int
 The underlying questions are not unique to finance. They arise wherever we build models from observations of complex, path-dependent systems.
 
 We only get to observe one path. But understanding it may require exploring the space around it.
+
+---
+
+**Next in the series:** [Walking in the Dark →](/writing/walking-in-the-dark/){: .psl-card-link }

@@ -24,7 +24,7 @@ Most analysis focuses on the single path that occurred. Pathspace asks what chan
 
 ### Walking in the Dark
 
-A risk model has memory but no sense of time. Moving it onto a dark hillside asks what it should remember, and how hard it should flinch when the ground surprises it.
+A risk model has memory but no sense of time. So I sent a hiker wandering in the dark to ask what to remember.
 
 [Read →](/writing/walking-in-the-dark/){: .psl-card-link }
 
