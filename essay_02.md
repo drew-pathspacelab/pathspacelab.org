@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Walking in the Dark"
-excerpt: "A risk model has memory but no sense of time. So I sent a hiker wandering in the dark to asked what to remember.”
+excerpt: "A risk model has memory but no sense of time. So I sent a hiker wandering in the dark to ask what to remember."
 permalink: /writing/walking-in-the-dark/
 author: drew_profile
 author_profile: true

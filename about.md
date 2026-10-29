@@ -16,7 +16,7 @@ Most analysis is conditioned on a single realized history: the one sequence of e
 
 The name comes from mathematics and physics, where a *pathspace* is the collection of all possible paths a system can take through time. My interest in the idea predates finance. In graduate school I studied stochastic processes in biophysical systems, where individual molecules, proteins, and ion channels evolve along many possible trajectories rather than a single predetermined one &mdash; understood through ensembles of trajectories, not one realized path.
 
-Later, building equity risk models, I kept running into the same shape of question wearing different clothes: markets, too, produce one observed history, but countless others were equally plausible given the same underlying dynamics. That parallel &mdash; ensembles in biophysics, single realized histories in finance &mdash; is what Pathspace Lab grew out of.
+Later, building equity risk models, I repeatily encountered the same type of questioning: markets, too, produce one observed history, but countless others were plausible given the same underlying dynamics. That parallel &mdash; ensembles in biophysics, single realized histories in finance &mdash; is the idea of Pathspace Lab.
 
 </section>
 
@@ -24,7 +24,7 @@ Later, building equity risk models, I kept running into the same shape of questi
 
 ## Approach
 
-Work here favors conservative, information-preserving perturbations over speculative scenario design: resampling and reshuffling what's already in the data (block bootstraps of returns, alternative time-orderings) rather than injecting new assumptions about how markets behave. The aim isn't predictive accuracy &mdash; it's understanding how fragile or robust a given conclusion is to the history that happened to unfold.
+Work here favors information-preserving perturbations: resampling what is already in the data (block bootstraps of returns, alternative time-orderings) rather than injecting new assumptions about how markets behave. The aim isn't predictive accuracy &mdash; it's understanding how fragile or robust a given conclusion is to the history that happened to unfold.
 
 For the full story of how this project started, read the founding essay:
 
