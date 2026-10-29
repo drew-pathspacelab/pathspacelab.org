@@ -1,0 +1,13 @@
+# Ruby/Bundler local installs
+/.bundle/
+/vendor/bundle/
+
+# Jekyll build output
+/_site/
+/.sass-cache/
+/.jekyll-cache/
+/.jekyll-metadata
+
+# Editor / OS
+.DS_Store
+*~

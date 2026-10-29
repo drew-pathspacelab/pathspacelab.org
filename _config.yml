@@ -1,4 +1,5 @@
 title: Pathspace Lab
+repository: drew-pathspacelab/pathspacelab.org
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "pathspace"
 markdown: kramdown
@@ -22,3 +23,7 @@ defaults:
 
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
